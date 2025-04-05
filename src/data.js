@@ -16,8 +16,8 @@ export default [
 
   {
     id: 5,
-    name: 'Hamster Master',
-    age: 92,
+    name: 'Marry Hamster',
+    age: 29,
     image:
       'lp.jpg',
     },
